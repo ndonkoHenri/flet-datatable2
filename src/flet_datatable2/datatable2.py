@@ -14,6 +14,8 @@ class DataTable2(ft.DataTable):
     """
     - [`flet.DataTable`][]
     - [flet.DataTable][]
+    - [float][]
+    - [`float`][]
 
     Provides sticky header row, scrollable data rows,
     and additional layout flexibility with [`DataColumn2`][(p).]
