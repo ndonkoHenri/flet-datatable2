@@ -12,8 +12,6 @@ __all__ = ["DataTable2"]
 @ft.control("DataTable2")
 class DataTable2(ft.DataTable):
     """
-    - [`flet.DataTable`][]
-    - [flet.DataTable][]
     - [float][]
     - [`float`][]
 
