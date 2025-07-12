@@ -14,6 +14,7 @@ class DataTable2(ft.DataTable):
     """
     - [float][]
     - [`float`][]
+    - [`float`][float]
 
     Provides sticky header row, scrollable data rows,
     and additional layout flexibility with [`DataColumn2`][(p).]
